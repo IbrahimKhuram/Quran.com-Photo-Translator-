@@ -1,16 +1,18 @@
+> [!NOTE]
+> This is a [WIP] feature 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/quran/quran_android/main/app/src/madani/res/drawable-xxhdpi/icon.png" alt='Quran for Android logo'/>
 
-# [WIP] Photo Translator for Quran.com
+# Photo Translator for Quran.com
 
 [![Build Status](https://github.com/quran/quran_android/actions/workflows/build.yml/badge.svg)](https://github.com/quran/quran_android/actions/workflows/build.yml)
 [![Version](https://img.shields.io/github/v/release/quran/quran_android?include_prereleases&sort=semver)](https://github.com/quran/quran_android/releases/latest)
 ![GitHub contributors](https://img.shields.io/github/contributors/IbrahimKhuram/Quran.com-Photo-Translator-)
 
-* Instantly translate the Quran through the lens of your phone. [future features: enhanced tafseer tools, guided tajweed practice + more!]
-* Advantages: Utilises trained Arabic Neural Networks to increase base OCR functionality from 36% to 93%.  
-* Under development: increasing translation rate -> pushing translation accuracy beyond 93% -> adding UI -> combining with main quran.com repository -> testing -> launch 🚀
+**Instantly translate the Quran through the lens of your phone.** [future features: enhanced tafseer tools, guided tajweed practice + more!]
+**Advantages:** Utilises trained Arabic Neural Networks to increase base OCR functionality from 36% to 93%.  
+**Under development:** increasing translation rate -> pushing translation accuracy beyond 93% -> adding UI -> combining with main quran.com repository -> testing -> launch 🚀
 
 [<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
       alt='Get it on Google Play'
@@ -23,7 +25,7 @@
 
 ## Credits
 
-* Quran.com-android
+* [quran.com](https://github.com/quran)
 
 ## Abstract
 
