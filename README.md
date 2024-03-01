@@ -33,8 +33,8 @@
 ## Abstract💡
 
 Most people prefer to have a book in their hands, especially whilst reciting the Quran. However, when it comes to translations, tafseer, and listening to audio, most switch to digital mediums. But, what if there was a hybrid approach to get the best of both worlds? What if you could read an Ayah, pull out your phone to take a picture, and instantly see the meaning of what you’re reading, immerse yourself in deep study of its tafseer, and perfect your tajweed at the same time? To solve this problem, I developed an algorithm whereby a user can snapshot any page of the Quran, an OCR scans the Arabic text utilising a trained Arabic neural network from NanoNets, the OCR result is further refined using my algorithm and finally--utilising Quran.com's API's--a translation of the page is returned in any language from any translator.
-#
-#
+>
+---
 # Version history
 ## Latest release: Photo Translator for Quran.com `v0.1.0-alpha`
 
