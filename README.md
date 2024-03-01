@@ -28,7 +28,7 @@
 
 ## Credits 🏆
 
-* [quran.com](https://github.com/quran)
+* To the [quran.com team](https://github.com/quran) for providing with the API and source code necessary for this project, Jazakamullah khair. 
 
 ## Abstract💡
 
