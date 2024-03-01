@@ -7,7 +7,7 @@
 # Photo Translator for Quran.com
 
 [![Build Status](https://github.com/quran/quran_android/actions/workflows/build.yml/badge.svg)](https://github.com/quran/quran_android/actions/workflows/build.yml)
-[![Version](https://img.shields.io/github/v/release/quran/quran_android?include_prereleases&sort=semver)](https://github.com/quran/quran_android/releases/latest)
+[![Version](https://img.shields.io/github/v/release/IbrahimKhuram/quran.com-photo-translator?include_prereleases&sort=semver)](https://github.com/IbrahimKhuram/quran.com-photo-translator/releases/latest)
 ![GitHub contributors](https://img.shields.io/github/contributors/IbrahimKhuram/Quran.com-Photo-Translator-)
 
 ⚡**Instantly translate the Quran through the lens of your phone.** 
