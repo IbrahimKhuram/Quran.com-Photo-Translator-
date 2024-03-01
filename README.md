@@ -6,7 +6,7 @@
 
 [![Build Status](https://github.com/quran/quran_android/actions/workflows/build.yml/badge.svg)](https://github.com/quran/quran_android/actions/workflows/build.yml)
 [![Version](https://img.shields.io/github/v/release/quran/quran_android?include_prereleases&sort=semver)](https://github.com/quran/quran_android/releases/latest)
-[![Github Downloads](https://img.shields.io/github/downloads/quran/quran_android/total?logo=Github)](https://github.com/quran/quran_android/releases)
+![GitHub contributors](https://img.shields.io/github/contributors/IbrahimKhuram/Quran.com-Photo-Translator)
 
 * Instantly translate the Quran through the lens of your phone. [future features: enhanced tafseer tools, guided tajweed practice + more!]
 * Advantages: Utilises trained Arabic Neural Networks to increase base OCR functionality from 36% to 93%.  
