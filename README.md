@@ -38,7 +38,7 @@ Most people prefer to have a book in their hands, especially whilst reciting the
 # Version history
 ## Latest release: Photo Translator for Quran.com `v0.1.0-alpha`
 
-`alpha-release v0.1.0` presents an evaluation of its improved dynamic Quranic Arabic text recognition algorithm, showcasing its dynamic nature through experimentation with an extreme dataset. The algorithm's performance is tested on classical Arabic text of different font sizes, widely spaced apart, including multiple lines of word-by-word Urdu Quran translation below. Various challenges such as the presence of multiple Ayahs in one line, Urdu translations, and different Surahs on the same page are assessed.
+`alpha-release v0.1.0` presents an evaluation of its improved dynamic Quranic Arabic script recognition algorithm, showcasing its dynamic nature through experimentation with an extreme dataset. The algorithm's performance is tested on classical Arabic text of different font sizes, widely spaced apart, including multiple lines of word-by-word Urdu Quran translation below. Various challenges such as the presence of multiple Ayahs in one line, Urdu translations, and different Surahs on the same page are assessed.
 
 ## Experimental Setup 🧪
 The algorithm is evaluated against an ideal result, considering the expected Ayahs and Surahs based on the provided dataset. The actual algorithm results are compared against the ideal to assess its accuracy. Challenges faced during the evaluation are documented to highlight areas of improvement.
@@ -88,7 +88,7 @@ The base OCR functionality fails to accurately capture the classical Arabic text
 Despite limitations in the OCR library and Quran.com search engine, the actual algorithm result achieves a success rate of 93%. While some errors occur, the algorithm demonstrates the capability to significantly rectify OCR and search engine inaccuracies by accurately detecting the start and end of Ayahs based on patterns within Quranic Ayah structures.
 
 ## Conclusion 📃
-The evaluation demonstrates the effectiveness of the Arabic cursive text recognition algorithm in handling complex text layouts and overcoming OCR inaccuracies. Further improvements in OCR accuracy and integration with Quranic databases could enhance the algorithm's performance.
+The evaluation demonstrates the effectiveness of the Arabic classical script recognition algorithm in handling complex text layouts and overcoming OCR inaccuracies. Further improvements in OCR accuracy and integration with Quranic databases could enhance the algorithm's performance.
 
 ## Resources Used 🎨
 * OpenCV (To capture image from camera)
