@@ -78,13 +78,13 @@ Ideal Algorithm result (Success: 100%) | Actual Algorithm result (**Success: 93%
 ---------------------------------------|---------------------------------------|--------------------------------------
 Sad 83:82-38:88                        | Sad 83:83-38:88                       | N/A
 
-# Ideal Algorithm Result (Success: 100%) 🛡️
+## Ideal Algorithm Result (Success: 100%) 🛡️
 Utilized as a control test for comparative purposes.
 
-# Base OCR Functionality (Fail: 36%) ❌
+## Base OCR Functionality (Fail: 36%) ❌
 The base OCR functionality fails to accurately capture the classical Arabic text, resulting in significant errors during scanning. 
 
-# Actual Algorithm Result (Success: 93%) 🥇✅
+## Actual Algorithm Result (Success: 93%) 🥇✅
 Despite limitations in the OCR library and Quran.com search engine, the actual algorithm result achieves a success rate of 93%. While some errors occur, the algorithm demonstrates the capability to significantly rectify OCR and search engine inaccuracies by accurately detecting the start and end of Ayahs based on patterns within Quranic Ayah structures.
 
 ## Conclusion 📃
